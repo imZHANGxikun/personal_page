@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = 张曦锟 (Xikun Zhang)
 Richard hanrick
 Web developer
 
